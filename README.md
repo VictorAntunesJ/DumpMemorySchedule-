@@ -1,0 +1,3 @@
+# DumpMemorySchedule-
+
+dotnet new gitignore
